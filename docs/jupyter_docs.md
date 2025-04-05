@@ -4,7 +4,7 @@ Este repositorio contiene los documentos para la implementación de las simulaci
 
 Archivo y enlace al material didactico relacionado:
 
-- [Conceptos básicos](main/docs/Conseptos_basicos.ipynb)
+- [Conceptos básicos](Papime_PE110923/docs/Conseptos_basicos.ipynb)
 - 
 
 
