@@ -29,6 +29,8 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 # CONTENIDO DEL REPOSITORIO
 
 1. [Documentación para la implementación de las simulaciones](./docs/jupyter_docs.md)
+2. [Paquetes para la simulación de un robot scara](./scara_pkgs/scara_pkg.md)
+3. 
 
 
 
