@@ -8,7 +8,7 @@ Fue realizado por los alumnos:
 
 Bajo la supervición y apoyo del M.I. Erik Peña Medina y del Ing. Felipe Rivas Campos.
 
-El enlace la repositorio es:
+El enlace la repositorio gernerado:
 [Enlace al repositorio](https://github.com/arrg-mx/ROSX3_Plus_ROSX3/tree/humble)
 
 Sobre la rama de humble.
