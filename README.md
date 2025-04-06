@@ -36,7 +36,9 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 7. [Prácticas](./practicas/practicas.md)
 
 
+# Repositorios con el resto del contenido del proyecto
 
-
+- [Repositorio de robótica móvil](https://github.com/arrg-mx/Papime_PE110923_rmovil)
+- [Repositorio de manejo de redes para robótica](https://github.com/arrg-mx/ros2-docs)
 
 Facultad de Ingeniería UNAM. Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2025. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
