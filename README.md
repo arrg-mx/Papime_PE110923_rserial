@@ -33,7 +33,7 @@ https://1drv.ms/u/c/602ebeff73b09729/EdaMON01GmdGkongpOZjlBYBc6aa-aCmeawS7qPdC5l
 3. [Paquetes para la simulación de los robots del laboratorio](./robo_lab/robots_lab.md)
 4. [Paquetes para la simulación de los robots del laboratorio](./robo_lab/robots_lab.md)
 5. [Introducción a Nodos, Tópicos e Interfeces](./ros2_basic/ros2_basic.md)
-6. [Prácticas]
+6. [Prácticas](./practicas/practicas.md)
 
 
 
