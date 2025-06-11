@@ -1,5 +1,7 @@
 # Paquetes Robot Scara    
 
+"Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM."
+
 ## Descripción
 Este repositorio contiene los archivos relacionados con la implementación la simulación de un robot scara con primitivas. 
 El contenido de los paquetes es el siguiente:
