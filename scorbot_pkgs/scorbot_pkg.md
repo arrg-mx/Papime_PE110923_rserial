@@ -1,5 +1,7 @@
 # Paquetes Robot Scorbot    
 
+## "Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM".
+
 ## Descripción
 Este paquete contiene los archivos correspondiente para simular un robot serial Scorbot, como los que se cuentan en la departamento de Ingeniería Mecatrónica y en las celdas de Manufactura Flexible en la Facultad de Ingeniería UNAM.
 
