@@ -13,4 +13,4 @@ Este repositorio contiene el formato de las prácticas que se deben realizar par
 
 Facultad de Ingeniería UNAM. Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2025. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
 
-   
+## "Este material fue desarrollado con el apoyo del PAPIME PE110923 de la UNAM."   
